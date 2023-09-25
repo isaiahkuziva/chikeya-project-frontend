@@ -1,0 +1,15 @@
+{
+  "name": "verifytalent_front",
+  "version": "1.0.0",
+  "description": "Frontend application for the verifytalent app",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "job-verification",
+    "talent-assessment"
+  ],
+  "author": "isaiah",
+  "license": "ISC"
+}
